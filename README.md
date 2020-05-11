@@ -1,3 +1,3 @@
 # Denatate-Gyrus-Neural-Mass-Model
 
-A Jansen-Rit neural mass model for the denate gyrus
+A Jansen-Rit neural mass model for the dentate gyrus.
